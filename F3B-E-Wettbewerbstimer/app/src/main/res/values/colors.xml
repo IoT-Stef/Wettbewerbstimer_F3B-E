@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#0E1014</color>
+    <color name="surface">#1A1D24</color>
+    <color name="track">#262A33</color>
+    <color name="text_primary">#F5F7FA</color>
+    <color name="text_secondary">#8B93A1</color>
+    <color name="phase_calm">#4ADE80</color>
+    <color name="phase_warn">#FBBF24</color>
+    <color name="phase_final">#F87171</color>
+</resources>
